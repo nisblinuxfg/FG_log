@@ -1,0 +1,19 @@
+meet 1:
+
+16-02-2015
+
+* Adddressed the FG for the first time and collected member details.
+* Distributed Linux ISO for all members.
+* Gave overview of the group functioning.
+
+meet 2:
+
+25-02-2015
+
+* Explained the concept of software( system software and application software ).
+* Introduced to the concept of OS and brief overview of its several components discussed.
+* History of UNIX and GNU/LINUX operating systems discussed.
+* Linux filesystem structure and hierarchy explained.
+* Concepts of 'user' and 'super_user' discussed.
+* Introducedto the 'terminal', familiarised with basic linux commands.
+* Wrote a simple shell script to display the battery capacity on the STD_OUT.
